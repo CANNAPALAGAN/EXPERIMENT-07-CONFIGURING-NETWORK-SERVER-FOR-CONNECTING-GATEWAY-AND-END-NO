@@ -22,7 +22,6 @@ Permissioned access and log-ins for network users Gateway access to the Internet
 
  1. login to the network server using login link  https://iot.saveetha.in/
  2. Click on the nework server as shown blow
-  ![image]https://github.com/CANNAPALAGAN/IMAGES/blob/main/WIN_20251230_12_24_07_Pro.jpg
  ![image](https://github.com/vasanthkumarch/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/36288975/1bd434ca-1426-4102-8384-94473483543e)
  3. Click on the add gateway 
  
